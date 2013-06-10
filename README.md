@@ -40,3 +40,12 @@ Simulstage
 ----------
 
 Writing, combat design.
+
+Character design. Visual theming for scenarios.
+
+Scoring should be done after the game is designed.
+
+Afterstage
+----------
+
+Port from PyGame, perhaps to pyglet + pyOpenAL.
